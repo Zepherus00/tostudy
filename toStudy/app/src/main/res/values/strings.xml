@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">toStudy</string>
+
+    <string name="title_material">Материалы</string>
+    <string name="title_messenger">Сообщения</string>
+    <string name="title_timetable">Расписание</string>
+    <string name="title_statistics">Статистика</string>
+    <string name="title_profile">Профиль</string>
+
+    <string name="add">Добавить</string>
+    <string name="settings">Настройки</string>
+    <string name="pupils">Ученики</string>
+    <string name="parents">Родители</string>
+    <string name="requests">Запросы</string>
+
+    <string name="hello_blank_fragment1">Фрагмент 1 - УЧЕНИКИ</string>
+    <string name="hello_blank_fragment2">Фрагмент 2 - РОДИТЕЛИ</string>
+    <string name="hello_blank_fragment3">Фрагмент 3 - ЗАПРОСЫ</string>
+</resources>
